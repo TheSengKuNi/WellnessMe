@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "18106779529",
+    "project_id": "sengkuni-4214d",
+    "storage_bucket": "sengkuni-4214d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18106779529:android:bfdf047b890d145dfd0358",
+        "android_client_info": {
+          "package_name": "com.codeforany.fitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEtXZPlBPWczWr5xNpRy7vbeLu-onOxlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18106779529:android:3d8fb593dd49b825fd0358",
+        "android_client_info": {
+          "package_name": "com.sengkuni.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEtXZPlBPWczWr5xNpRy7vbeLu-onOxlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18106779529:android:c8de580234cc786dfd0358",
+        "android_client_info": {
+          "package_name": "com.sengkuni.wellnessme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEtXZPlBPWczWr5xNpRy7vbeLu-onOxlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
